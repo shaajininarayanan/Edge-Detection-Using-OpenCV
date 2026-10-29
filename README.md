@@ -309,36 +309,38 @@ else:
 - Detects edges in horizontal and vertical directions.
 - Produces a gradient-based edge map.
 
-**Output Screenshot:** Add the Sobel output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bbebc58-69b5-42f9-80af-8b68379f8f22" />
+
 
 ### Prewitt Edge Detector
 
 - Detects edges using horizontal and vertical Prewitt kernels.
 
-**Output Screenshot:** Add the Prewitt output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37c7db59-9c02-4fc8-b199-64f8a49efb98" />
+
 
 ### Roberts Edge Detector
 
 - Detects edges using diagonal gradient kernels.
 - Highlights diagonal intensity changes.
 
-**Output Screenshot:** Add the Roberts output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a92dd06c-1a44-4f81-9dd8-d4831d010b0d" />
+
 
 ### Laplacian Edge Detector
 
 - Detects edges using second-order derivatives.
 - Highlights rapid intensity changes.
 
-**Output Screenshot:** Add the Laplacian output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/277cc58e-1b4e-4029-9d24-8bb36edb9c80" />
+
 
 ### Canny Edge Detector
 
 - Detects edges using a multi-stage algorithm.
 - Produces clear, thin edge boundaries.
 
-**Output Screenshot:** Add the Canny output screenshot here.
-
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfa17d69-ddfd-49c5-9f2a-86048a7f5bcc" />
 
 ## Result
 
